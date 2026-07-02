@@ -1,0 +1,22 @@
+Senior AI Engineer
+
+Required Skills:
+Python
+Machine Learning
+Deep Learning
+Natural Language Processing
+Large Language Models (LLM)
+Generative AI
+Retrieval Augmented Generation (RAG)
+Embeddings
+Vector Databases
+PyTorch
+TensorFlow
+Transformers
+LangChain
+
+Experience:
+5-9 Years
+
+Responsibilities:
+Develop AI products, build scalable ML systems, work with LLMs and retrieval systems, optimize ranking and recommendation pipelines.
