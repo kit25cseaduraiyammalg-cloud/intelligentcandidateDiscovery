@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C001",
+  "name": "Arun Kumar",
+  "experience": 6,
+  "education": "B.E CSE",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch"
+  ],
+  "certifications": [
+    "AWS",
+    "Microsoft Azure"
+  ]
+}
